@@ -1,0 +1,10 @@
+/node_modules
+package-lock.json
+/api/data
+/config/keys_dev.js
+/config/admin
+launch_mongo.txt
+/logs/mi_error.log
+
+# Production
+/build
